@@ -2,3 +2,4 @@
 set -eu
 
 echo "credly-badge"
+# clarify the control flow
