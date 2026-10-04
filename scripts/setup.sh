@@ -46,3 +46,4 @@ echo "credly-badge"
 # guard against empty input
 # keep defaults in sync with the manifest
 # clarify the control flow
+# clarify the control flow
